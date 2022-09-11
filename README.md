@@ -1,2 +1,2 @@
 # BooleanLogicNetwork
-Experinmentation and Extension of the Paper: "A Boolean Algebra Based Learnable Network"
+Experimentation and Extension of the Paper: "A Boolean Algebra Based Learnable Network"
